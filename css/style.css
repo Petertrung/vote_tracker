@@ -11,21 +11,22 @@ body{
 }
 #leftPhoto{
 	float: left;
+	padding: 7px;
+
 }
-#leftPhoto::hover {
-	padding: 20px;
+#leftPhoto:hover {
 	background-color: blue;
 }
 
 #rightPhoto{
 	float: right;
 }
-#rightPhoto::hover {
+#rightPhoto:hover {
 	background-color: red;
+	padding: 7px;
 }
-
 #catChart{
-	margin-left: 35%;
+	margin-left: 300px;
 }
 #reset{
 	width: 100px;
