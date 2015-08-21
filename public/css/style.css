@@ -1,0 +1,38 @@
+*{
+	font-family: 'Sigmar One', cursive;
+}
+body{
+	width: 80%;
+	margin-left: 10%;
+}
+#header{
+	text-align: center;;
+	font-size: 72px;
+}
+#leftPhoto{
+	float: left;
+	padding: 7px;
+
+}
+#leftPhoto:hover {
+	background-color: blue;
+}
+
+#rightPhoto{
+	float: right;
+}
+#rightPhoto:hover {
+	background-color: red;
+	padding: 7px;
+}
+#catChart{
+	margin-left: 300px;
+}
+#reset{
+	width: 100px;
+	height: 50px;
+	background-color: white;
+}
+#reset:hover{
+	background-color: #D3D3D3;
+}

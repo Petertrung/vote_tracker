@@ -1,0 +1,26 @@
+{
+  "name": "cat_vote",
+  "version": "1.0.0",
+  "description": "Cats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petertrung/vote_tracker.git"
+  },
+  "keywords": [
+    "Cat"
+  ],
+  "author": "Peter Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Petertrung/vote_tracker/issues"
+  },
+  "homepage": "https://github.com/Petertrung/vote_tracker#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
